@@ -33,7 +33,7 @@ Here is a glimpse of how the beautiful UI looks in action:
 
 Watch the full working demo of the application here:
 
-**[👉 https://drive.google.com/file/d/1QE5HO0A_pCxLUmttokSUGQWksJ9Ocjyz/view?usp=drive_link ]
+**[👉 https://drive.google.com/file/d/1QE5HO0A_pCxLUmttokSUGQWksJ9Ocjyz/view?usp=sharing ]
 
 ---
 
