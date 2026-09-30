@@ -1,0 +1,92 @@
+﻿export const initialBlogs = [
+  {
+    id: "1",
+    title: "Healthy Lifestyle Kaise Maintain Karein? – Daily Health Tips",
+    director: "Dr. Rahul Sharma",
+    category: "Healthy Lifestyle",
+    description: "Healthy lifestyle maintain karne ke liye balanced diet, regular exercise, proper sleep aur stress management ko daily routine ka part banana zaroori hai.",
+    date: "2026-09-01",
+    imageUrl: "https://images.unsplash.com/photo-1498837167922-ddd27525d352"
+  },
+  {
+    id: "2",
+    title: "Balanced Diet Kya Hai? – Complete Guide",
+    director: "Dr. Priya Patel",
+    category: "Nutrition",
+    description: "Balanced diet body ko essential nutrients provide karti hai. Jaane protein, vitamins, minerals, carbohydrates aur healthy fats ka importance.",
+    date: "2026-09-03",
+    imageUrl: "https://images.unsplash.com/photo-1490645935967-10de6ba17061"
+  },
+  {
+    id: "3",
+    title: "Daily Exercise Ke 10 Amazing Benefits",
+    director: "Dr. Amit Mehta",
+    category: "Fitness",
+    description: "Regular exercise physical fitness improve karne ke saath energy, sleep, heart health aur overall well-being ko support kar sakti hai.",
+    date: "2026-09-05",
+    imageUrl: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438"
+  },
+  {
+    id: "4",
+    title: "Mental Health Ka Dhyan Kaise Rakhein?",
+    director: "Dr. Neha Shah",
+    category: "Mental Health",
+    description: "Mental well-being ke liye stress management, social connection, adequate sleep aur healthy daily routine important role play karte hain.",
+    date: "2026-09-07",
+    imageUrl: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88"
+  },
+  {
+    id: "5",
+    title: "Achhi Sleep Ke Liye 10 Important Tips",
+    director: "Dr. Rohan Desai",
+    category: "Sleep & Wellness",
+    description: "Quality sleep body aur mind dono ke liye important hai. Consistent sleep schedule aur relaxing bedtime routine sleep quality ko improve kar sakte hain.",
+    date: "2026-09-10",
+    imageUrl: "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55"
+  },
+  {
+    id: "6",
+    title: "Drinking Water: Body Ke Liye Kitna Paani Zaroori Hai?",
+    director: "Dr. Karan Joshi",
+    category: "Hydration",
+    description: "Proper hydration body ke normal functions ke liye essential hai. Jaane hydration ko daily routine mein maintain karne ke simple ways.",
+    date: "2026-09-12",
+    imageUrl: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d"
+  },
+  {
+    id: "7",
+    title: "Immunity Strong Karne Ke Natural Ways",
+    director: "Dr. Anjali Mehta",
+    category: "Immunity",
+    description: "Healthy diet, regular physical activity, sufficient sleep aur good hygiene overall immune system ko support karne mein helpful ho sakte hain.",
+    date: "2026-09-15",
+    imageUrl: "https://images.unsplash.com/photo-1606787366850-de6330128bfc"
+  },
+  {
+    id: "8",
+    title: "Stress Aur Anxiety Ko Manage Karne Ke Simple Tips",
+    director: "Dr. Sneha Patel",
+    category: "Mental Wellness",
+    description: "Daily routine mein breathing exercises, physical activity, relaxation aur adequate rest ko include karke stress ko manage karne mein help mil sakti hai.",
+    date: "2026-09-18",
+    imageUrl: "https://images.unsplash.com/photo-1506126613408-eca07ce68773"
+  },
+  {
+    id: "9",
+    title: "Regular Health Checkup Kyun Zaroori Hai?",
+    director: "Dr. Vikram Shah",
+    category: "Preventive Care",
+    description: "Regular health checkups health conditions ko early stage par identify karne aur overall health ko monitor karne mein important role play karte hain.",
+    date: "2026-09-21",
+    imageUrl: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d"
+  },
+  {
+    id: "10",
+    title: "Heart Health Ko Healthy Rakhne Ke 10 Tips",
+    director: "Dr. Raj Patel",
+    category: "Heart Health",
+    description: "Heart health ke liye regular physical activity, balanced nutrition, adequate sleep aur tobacco avoidance jaise healthy habits important hain.",
+    date: "2026-09-25",
+    imageUrl: "https://images.unsplash.com/photo-1499209974431-9dddcece7f88"
+  }
+];
